@@ -2,3 +2,6 @@
   max-width: 800px;
   margin: 5rem auto 0;
 }
+.card.text-white.bg-primary.mb-3 {
+  max-width: 100% !important;
+}
